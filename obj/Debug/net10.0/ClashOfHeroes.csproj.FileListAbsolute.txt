@@ -1,0 +1,14 @@
+D:\Projetos\ClashOfHeroes\bin\Debug\net10.0\ClashOfHeroes.exe
+D:\Projetos\ClashOfHeroes\bin\Debug\net10.0\ClashOfHeroes.deps.json
+D:\Projetos\ClashOfHeroes\bin\Debug\net10.0\ClashOfHeroes.runtimeconfig.json
+D:\Projetos\ClashOfHeroes\bin\Debug\net10.0\ClashOfHeroes.dll
+D:\Projetos\ClashOfHeroes\bin\Debug\net10.0\ClashOfHeroes.pdb
+D:\Projetos\ClashOfHeroes\obj\Debug\net10.0\ClashOfHeroes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\ClashOfHeroes\obj\Debug\net10.0\ClashOfHeroes.AssemblyInfoInputs.cache
+D:\Projetos\ClashOfHeroes\obj\Debug\net10.0\ClashOfHeroes.AssemblyInfo.cs
+D:\Projetos\ClashOfHeroes\obj\Debug\net10.0\ClashOfHeroes.csproj.CoreCompileInputs.cache
+D:\Projetos\ClashOfHeroes\obj\Debug\net10.0\ClashOfHeroes.dll
+D:\Projetos\ClashOfHeroes\obj\Debug\net10.0\refint\ClashOfHeroes.dll
+D:\Projetos\ClashOfHeroes\obj\Debug\net10.0\ClashOfHeroes.pdb
+D:\Projetos\ClashOfHeroes\obj\Debug\net10.0\ClashOfHeroes.genruntimeconfig.cache
+D:\Projetos\ClashOfHeroes\obj\Debug\net10.0\ref\ClashOfHeroes.dll
