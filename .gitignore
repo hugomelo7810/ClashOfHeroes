@@ -8,6 +8,14 @@
 *.userosscache
 *.sln.docstates
 
+/.vs
+/obj
+/bin
+
+.vs/
+obj/
+bin/
+
 # Build results
 [Dd]ebug/
 [Rr]elease/
