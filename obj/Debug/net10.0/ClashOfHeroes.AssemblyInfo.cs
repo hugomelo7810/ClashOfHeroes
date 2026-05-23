@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClashOfHeroes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e4b2b683f225961f1a054163550ea0010ae82ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClashOfHeroes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClashOfHeroes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
